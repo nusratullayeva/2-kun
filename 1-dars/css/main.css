@@ -1,0 +1,166 @@
+body {
+    background: rgb(255, 0, 97);
+    background: radial-gradient(circle, rgba(255, 0, 97, 0.3157564051011029) 27%, rgba(255, 0, 209, 0.30735304375656514) 100%);
+}
+
+.div-menu {
+    margin-top: 150px;
+    row-gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-div {
+    display: flex;
+}
+
+.input-group {
+    width: 400px;
+}
+
+.main-css {
+    flex-direction: column;
+}
+
+.form-select {
+    background: rgb(255, 0, 97);
+    background: radial-gradient(circle, rgba(255, 0, 97, 0.3157564051011029) 27%, rgba(255, 0, 209, 0.30735304375656514) 100%);
+}
+
+.form-control {
+    color: rgb(255, 0, 97);
+    background: rgb(255, 0, 97);
+    background: radial-gradient(circle, rgba(255, 0, 97, 0.3157564051011029) 27%, rgba(255, 0, 209, 0.30735304375656514) 100%);
+}
+
+.input-group>.form-select {
+    color: rgb(255, 0, 97);
+}
+
+.btn {
+    width: 400px;
+}
+
+h1 {
+    font-size: 44px;
+    padding-top: 30px;
+}
+
+.main-book {
+    width: 400px;
+    height: 355px;
+    background-color: rgba(0, 0, 255, 0.051);
+    margin-bottom: 200px;
+}
+
+.main-book h6 {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.main-book button {
+    display: flex;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: crimson;
+    letter-spacing: 5px;
+    margin-left: 20px;
+    transition: 1s;
+    margin-top: 20px;
+    border: none;
+}
+
+.main-book button:hover {
+    border: 2px solid crimson;
+    color: crimson;
+    background-color: transparent;
+    transition: 1s;
+}
+
+.main-book hr {
+    background-color: chocolate;
+    border: none;
+    width: 360px;
+    margin: 0 auto;
+    height: 2px;
+    margin-top: 25px;
+}
+
+.div-green p {
+    color: #ffffff99;
+    font-size: 50px;
+    letter-spacing: 7px;
+    text-align: center;
+}
+
+.div-green {
+    border-radius: 10px;
+    margin-top: 45px;
+    height: 90px;
+    width: 843px;
+    background-color: rgb(24 160 24);
+    margin-left: 40px;
+}
+
+.movies {
+    font-size: 50px;
+    margin-left: 35px;
+    letter-spacing: 5px;
+}
+
+.display-flex {
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 40px;
+    column-gap: 100px;
+}
+
+.card-tittle {
+    width: 50px;
+    height: 50px;
+}
+
+.btn-group {
+    margin-top: 90px;
+    margin-left: 350px;
+}
+
+.display {
+    display: flex;
+    align-items: center;
+    width: 325px;
+    column-gap: 10px;
+}
+
+.btn-outline-primary {
+    background-color: rgb(0, 128, 255);
+    color: white;
+    width: 70px;
+    transition: 1s;
+    border: none;
+}
+
+.btn-outline-primary:hover {
+    border: 2px solid rgb(0, 128, 255);
+    transition: 1s;
+}
+
+.card-body input {
+    cursor: pointer;
+    border: none;
+}
+
+.data {
+    flex-direction: column;
+    display: flex;
+}
+
+.df {
+    text-align: center;
+    display: flex;
+}
+
+.df h3 {
+    font-size: 20px;
+}
